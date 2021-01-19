@@ -1,5 +1,5 @@
 # CI-example
-This repository will store code for the continuous integration using Jenkins and Ansible
+This repository stores code for the Java webapp with SQLdb using continuous integration with Jenkins and Ansible
 
 # Run Sonar Scan
 
